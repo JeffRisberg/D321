@@ -1,0 +1,20 @@
+{
+ "name": "example", "children": [
+  {"name": "Bob", "size": 3938},
+  {"name": "Jack", "children": [
+    {"name": "J1", "size": 1500},
+    {"name": "J2", "size": 2312}
+   ]
+  },
+  {"name": "Sally", "children": [
+    {"name": "S1", "size": 1300},
+    {"name": "S2", "size": 1912}
+   ]
+  },
+  {"name": "Tom", "children": [
+    {"name": "T1", "size": 900},
+    {"name": "T2", "size": 812}
+   ]
+  }
+  ]
+}
