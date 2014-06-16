@@ -4,7 +4,7 @@
   <title>D3 21</title>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <script type="text/javascript" src="js/d3.js"></script>
-  <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+  <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
 </head>
 <body>
 
